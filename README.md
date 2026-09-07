@@ -42,7 +42,7 @@ _GitHub Actions_ requires permission to authenticate with Azure and push Docker 
 
 Create a _Microsoft Entra application and service principal_ by following the official Microsoft documentation:
 
-[https://learn.microsoft.com/en-us/entra/identity-platform/howto-create-service-principal-portal](https://learn.microsoft.com/en-us/entra/identity-platform/howto-create-service-principal-portal
+[https://learn.microsoft.com/en-us/entraaz/identity-platform/howto-create-service-principal-portal](https://learn.microsoft.com/en-us/entra/identity-platform/howto-create-service-principal-portal
 )
 
 When creating the service principal, make sure you record the following values:
